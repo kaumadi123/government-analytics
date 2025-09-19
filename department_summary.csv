@@ -1,0 +1,13 @@
+department,total_complaints_last_year,resolved_complaints,pending_complaints,avg_resolution_time_days,avg_satisfaction_score,total_employees,efficiency_category
+Department of Motor Traffic,369,307,62,28,2.7,100,Low
+Registrar General Department,491,384,107,45,3.5,76,Medium
+Department of Immigration,404,376,28,36,3.0,112,Medium
+Inland Revenue Department,459,392,67,27,3.4,31,Medium
+Department of Pensions,236,204,32,22,2.7,53,Low
+Department of Census and Statistics,269,248,21,40,2.3,129,Low
+Department of Health Services,242,180,62,32,4.1,150,High
+Department of Education,308,262,46,11,3.2,120,Medium
+Provincial Council Secretariat,199,154,45,15,3.3,79,Medium
+Divisional Secretariat,356,268,88,26,3.2,35,Medium
+Municipal Council,487,386,101,18,2.5,188,Low
+Pradeshiya Sabha,334,240,94,17,2.3,70,Low

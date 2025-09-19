@@ -1,0 +1,501 @@
+employee_id,department,district,cases_handled_per_day,avg_processing_time_minutes,attendance_rate_percent,protocol_violations,years_of_service,efficiency_rating
+E00001,Department of Motor Traffic,Polonnaruwa,28,57,76.5,0,4,4.7
+E00002,Department of Education,Hambantota,27,80,69.2,0,20,3.3
+E00003,Municipal Council,Kilinochhi,26,21,60.0,1,7,3.3
+E00004,Provincial Council Secretariat,Polonnaruwa,17,31,89.7,0,20,3.6
+E00005,Registrar General Department,Ratnapura,45,67,71.2,0,13,3.1
+E00006,Department of Immigration,Jaffna,20,54,74.0,0,9,5.0
+E00007,Registrar General Department,Colombo,20,59,67.7,1,14,3.8
+E00008,Department of Health Services,Polonnaruwa,47,83,77.2,1,16,4.5
+E00009,Provincial Council Secretariat,Kurunegala,16,28,82.7,0,10,3.3
+E00010,Department of Census and Statistics,Ampara,27,24,78.2,0,8,3.4
+E00011,Department of Immigration,Kalutara,29,77,88.9,0,14,4.6
+E00012,Department of Census and Statistics,Gampaha,18,53,78.3,0,6,4.5
+E00013,Municipal Council,Hambantota,23,51,86.8,1,5,3.0
+E00014,Inland Revenue Department,Kegalle,16,58,89.7,0,17,4.6
+E00015,Divisional Secretariat,Galle,24,91,60.0,0,12,4.4
+E00016,Department of Pensions,Ratnapura,13,80,84.0,0,9,3.8
+E00017,Department of Motor Traffic,Batticaloa,36,49,61.9,2,3,3.1
+E00018,Registrar General Department,Polonnaruwa,27,66,83.7,1,1,3.6
+E00019,Municipal Council,Batticaloa,22,52,87.7,1,25,3.5
+E00020,Department of Immigration,Anuradhapura,5,66,76.0,0,17,3.8
+E00021,Department of Census and Statistics,Colombo,23,68,93.9,0,6,3.9
+E00022,Inland Revenue Department,Badulla,24,26,69.3,0,22,3.2
+E00023,Department of Motor Traffic,Mannar,25,109,68.1,0,21,3.7
+E00024,Pradeshiya Sabha,Colombo,27,59,82.7,1,14,2.8
+E00025,Department of Health Services,Batticaloa,18,87,89.1,0,4,4.9
+E00026,Department of Pensions,Kurunegala,17,48,76.0,1,11,3.3
+E00027,Inland Revenue Department,Matara,12,61,69.4,1,22,4.4
+E00028,Inland Revenue Department,Kegalle,18,53,88.1,1,4,3.0
+E00029,Department of Education,Kegalle,12,63,77.6,0,3,4.4
+E00030,Department of Pensions,Batticaloa,35,42,81.2,0,19,4.7
+E00031,Department of Census and Statistics,Mannar,27,45,93.7,1,9,4.1
+E00032,Pradeshiya Sabha,Kalutara,17,75,86.6,1,6,3.1
+E00033,Divisional Secretariat,Kurunegala,31,97,72.5,0,23,3.1
+E00034,Department of Immigration,Jaffna,32,55,92.1,0,25,4.4
+E00035,Divisional Secretariat,Nuwara Eliya,22,114,81.3,0,6,3.1
+E00036,Department of Motor Traffic,Nuwara Eliya,25,57,68.8,3,17,4.1
+E00037,Municipal Council,Kurunegala,33,53,65.7,0,3,3.3
+E00038,Department of Census and Statistics,Polonnaruwa,26,67,66.2,2,6,3.9
+E00039,Department of Motor Traffic,Trincomalee,33,61,78.7,1,19,4.4
+E00040,Municipal Council,Mannar,32,47,78.0,1,5,4.0
+E00041,Registrar General Department,Batticaloa,36,60,83.3,2,13,4.3
+E00042,Provincial Council Secretariat,Colombo,18,55,70.1,0,4,3.8
+E00043,Department of Immigration,Mullaitivu,10,67,75.9,0,20,4.1
+E00044,Department of Health Services,Nuwara Eliya,21,81,75.6,1,11,2.9
+E00045,Department of Motor Traffic,Kilinochhi,19,64,70.5,0,25,3.0
+E00046,Department of Motor Traffic,Ampara,35,76,70.2,0,24,3.9
+E00047,Inland Revenue Department,Monaragala,19,77,72.1,0,5,3.9
+E00048,Department of Pensions,Ratnapura,18,93,71.7,0,20,3.5
+E00049,Registrar General Department,Matara,39,68,60.0,2,20,4.2
+E00050,Department of Pensions,Matara,14,96,67.7,1,2,2.7
+E00051,Inland Revenue Department,Monaragala,23,97,79.8,0,25,3.3
+E00052,Department of Immigration,Mannar,22,35,96.3,0,2,2.9
+E00053,Pradeshiya Sabha,Kegalle,23,50,75.6,1,6,5.0
+E00054,Department of Education,Hambantota,23,61,81.5,0,20,3.9
+E00055,Department of Health Services,Matale,37,35,96.3,1,8,2.2
+E00056,Provincial Council Secretariat,Matara,27,47,72.9,1,17,3.4
+E00057,Department of Pensions,Jaffna,20,76,78.6,1,2,3.2
+E00058,Municipal Council,Matara,31,72,66.7,1,16,3.3
+E00059,Municipal Council,Vavuniya,24,62,87.8,0,12,3.3
+E00060,Department of Pensions,Galle,37,51,70.9,1,20,4.0
+E00061,Divisional Secretariat,Puttalam,20,78,72.6,0,9,4.4
+E00062,Department of Immigration,Ratnapura,27,57,81.0,0,18,4.5
+E00063,Department of Census and Statistics,Ratnapura,10,51,87.0,1,17,2.8
+E00064,Department of Motor Traffic,Galle,19,59,60.0,1,8,4.9
+E00065,Department of Motor Traffic,Trincomalee,29,87,65.7,2,14,3.7
+E00066,Municipal Council,Hambantota,13,31,67.8,1,4,3.6
+E00067,Department of Pensions,Kurunegala,31,56,74.8,0,14,2.9
+E00068,Municipal Council,Matara,19,59,87.7,0,5,4.4
+E00069,Divisional Secretariat,Polonnaruwa,24,68,81.9,0,2,3.4
+E00070,Provincial Council Secretariat,Kilinochhi,25,79,79.7,0,1,3.8
+E00071,Department of Census and Statistics,Gampaha,36,79,96.5,0,25,3.1
+E00072,Department of Pensions,Badulla,24,79,60.5,0,17,4.4
+E00073,Department of Education,Badulla,8,49,67.4,3,4,3.9
+E00074,Department of Census and Statistics,Puttalam,32,48,66.0,3,1,4.1
+E00075,Department of Census and Statistics,Kandy,14,96,86.8,1,18,3.4
+E00076,Department of Immigration,Galle,11,87,78.9,0,15,5.0
+E00077,Department of Education,Nuwara Eliya,24,58,77.6,2,4,4.0
+E00078,Department of Motor Traffic,Anuradhapura,21,72,60.0,2,2,3.4
+E00079,Department of Education,Hambantota,33,90,66.7,1,10,3.5
+E00080,Department of Pensions,Ampara,25,91,76.7,0,19,4.7
+E00081,Pradeshiya Sabha,Matara,23,79,81.5,1,19,4.8
+E00082,Registrar General Department,Monaragala,33,24,60.0,1,3,1.9
+E00083,Department of Education,Kandy,37,61,91.3,2,16,2.6
+E00084,Department of Pensions,Monaragala,24,75,72.2,1,1,2.4
+E00085,Department of Motor Traffic,Galle,33,31,68.8,0,23,3.4
+E00086,Department of Pensions,Mannar,27,41,69.9,1,13,2.9
+E00087,Provincial Council Secretariat,Badulla,17,70,69.7,0,17,3.1
+E00088,Pradeshiya Sabha,Hambantota,13,56,75.6,1,17,1.9
+E00089,Department of Health Services,Kilinochhi,29,84,83.5,1,22,3.3
+E00090,Department of Education,Kegalle,20,35,98.7,0,7,3.5
+E00091,Department of Education,Jaffna,38,55,80.8,0,25,4.0
+E00092,Department of Pensions,Anuradhapura,17,61,90.2,0,13,1.8
+E00093,Department of Health Services,Vavuniya,18,31,68.5,0,1,2.9
+E00094,Department of Education,Matale,26,78,85.6,0,8,4.3
+E00095,Department of Health Services,Vavuniya,25,42,90.2,0,24,4.2
+E00096,Department of Motor Traffic,Kegalle,21,46,84.0,1,10,2.5
+E00097,Department of Education,Hambantota,25,62,71.4,0,4,3.6
+E00098,Department of Immigration,Colombo,19,50,74.1,0,18,3.3
+E00099,Registrar General Department,Kurunegala,5,73,73.9,2,1,3.4
+E00100,Inland Revenue Department,Mullaitivu,29,40,81.0,0,17,4.6
+E00101,Divisional Secretariat,Galle,32,44,69.4,0,17,2.9
+E00102,Municipal Council,Matale,11,60,77.6,0,12,3.0
+E00103,Department of Immigration,Kurunegala,15,65,100.0,0,22,2.7
+E00104,Divisional Secretariat,Polonnaruwa,18,52,85.1,0,10,3.3
+E00105,Department of Motor Traffic,Jaffna,33,75,62.8,0,7,5.0
+E00106,Divisional Secretariat,Matara,29,55,78.7,1,25,3.3
+E00107,Department of Census and Statistics,Kandy,25,56,86.7,0,13,4.0
+E00108,Department of Motor Traffic,Matale,20,71,66.8,1,13,3.2
+E00109,Divisional Secretariat,Kegalle,7,67,72.3,1,23,4.5
+E00110,Department of Census and Statistics,Ampara,19,15,85.5,0,15,3.1
+E00111,Department of Census and Statistics,Matale,27,55,83.3,1,23,2.0
+E00112,Department of Health Services,Mullaitivu,13,82,78.4,1,18,3.4
+E00113,Department of Pensions,Kurunegala,26,64,70.4,0,2,3.1
+E00114,Inland Revenue Department,Badulla,37,68,76.5,1,24,4.7
+E00115,Registrar General Department,Mullaitivu,35,51,65.7,1,7,3.1
+E00116,Department of Health Services,Ampara,36,80,60.0,0,17,4.0
+E00117,Registrar General Department,Batticaloa,10,89,76.5,0,11,3.5
+E00118,Department of Immigration,Hambantota,26,112,78.0,2,21,4.0
+E00119,Provincial Council Secretariat,Kalutara,28,64,67.1,0,8,4.1
+E00120,Department of Census and Statistics,Matara,14,97,76.8,1,16,3.8
+E00121,Department of Health Services,Hambantota,45,70,69.1,0,6,3.6
+E00122,Divisional Secretariat,Trincomalee,16,26,83.2,0,8,3.8
+E00123,Divisional Secretariat,Matara,35,43,60.0,0,1,3.5
+E00124,Inland Revenue Department,Anuradhapura,23,54,60.0,1,25,4.0
+E00125,Department of Census and Statistics,Matara,39,82,72.3,0,20,2.9
+E00126,Department of Census and Statistics,Matale,25,63,68.2,1,24,3.9
+E00127,Pradeshiya Sabha,Vavuniya,24,63,100.0,0,2,2.9
+E00128,Provincial Council Secretariat,Polonnaruwa,22,90,60.0,0,18,4.6
+E00129,Department of Census and Statistics,Galle,15,64,77.9,1,6,3.5
+E00130,Divisional Secretariat,Kurunegala,31,33,71.4,0,15,3.7
+E00131,Inland Revenue Department,Jaffna,32,85,87.2,0,23,3.1
+E00132,Department of Motor Traffic,Kalutara,25,57,75.0,0,3,2.7
+E00133,Department of Pensions,Anuradhapura,23,52,82.1,1,20,4.1
+E00134,Department of Education,Ratnapura,16,72,80.9,0,10,3.5
+E00135,Department of Education,Kilinochhi,11,95,62.6,0,9,3.1
+E00136,Pradeshiya Sabha,Ampara,12,72,62.2,0,7,5.0
+E00137,Municipal Council,Polonnaruwa,10,49,84.7,1,15,3.7
+E00138,Department of Education,Gampaha,42,73,68.8,2,9,3.4
+E00139,Divisional Secretariat,Anuradhapura,20,44,77.0,0,2,3.0
+E00140,Divisional Secretariat,Mullaitivu,41,74,70.3,0,15,4.2
+E00141,Provincial Council Secretariat,Kalutara,27,79,91.7,0,20,4.6
+E00142,Department of Pensions,Mannar,23,76,78.8,0,13,1.9
+E00143,Department of Census and Statistics,Puttalam,29,45,76.9,0,16,3.1
+E00144,Department of Education,Matara,12,44,88.4,0,20,3.0
+E00145,Department of Health Services,Kandy,17,112,79.9,1,25,3.9
+E00146,Department of Motor Traffic,Badulla,20,62,95.6,0,7,3.4
+E00147,Municipal Council,Hambantota,22,64,76.8,0,1,3.5
+E00148,Department of Census and Statistics,Ampara,19,96,82.1,1,7,3.3
+E00149,Department of Health Services,Kurunegala,29,28,67.7,1,24,3.6
+E00150,Divisional Secretariat,Kandy,24,72,76.8,2,2,2.7
+E00151,Provincial Council Secretariat,Ratnapura,35,81,70.5,0,1,4.3
+E00152,Department of Pensions,Kandy,28,64,77.7,1,23,2.7
+E00153,Municipal Council,Ampara,16,81,74.6,2,11,4.3
+E00154,Department of Health Services,Anuradhapura,13,70,64.6,1,21,4.8
+E00155,Department of Pensions,Galle,28,21,68.5,1,2,4.6
+E00156,Department of Education,Monaragala,14,71,82.1,2,6,3.8
+E00157,Registrar General Department,Badulla,20,88,93.0,3,17,3.2
+E00158,Municipal Council,Trincomalee,37,49,70.8,0,15,3.5
+E00159,Municipal Council,Batticaloa,16,38,60.0,1,3,2.8
+E00160,Municipal Council,Ratnapura,23,43,98.1,0,14,3.2
+E00161,Divisional Secretariat,Puttalam,26,69,77.9,0,4,5.0
+E00162,Department of Health Services,Kilinochhi,20,48,80.6,0,17,3.3
+E00163,Department of Education,Nuwara Eliya,36,48,66.7,1,8,4.1
+E00164,Department of Health Services,Matara,26,29,90.5,0,10,5.0
+E00165,Registrar General Department,Kandy,22,71,75.4,1,2,4.4
+E00166,Department of Pensions,Kurunegala,11,34,83.8,0,11,3.0
+E00167,Department of Education,Kurunegala,20,64,74.8,0,23,4.7
+E00168,Department of Health Services,Batticaloa,34,66,88.2,0,4,2.8
+E00169,Department of Immigration,Vavuniya,29,52,85.9,2,11,4.9
+E00170,Department of Education,Monaragala,29,77,85.1,1,6,5.0
+E00171,Provincial Council Secretariat,Kalutara,22,43,68.1,2,18,4.1
+E00172,Department of Immigration,Kegalle,26,60,66.4,0,19,4.6
+E00173,Registrar General Department,Nuwara Eliya,36,64,72.7,0,16,3.2
+E00174,Provincial Council Secretariat,Anuradhapura,24,65,81.1,0,21,3.9
+E00175,Provincial Council Secretariat,Trincomalee,26,68,73.1,1,12,3.4
+E00176,Municipal Council,Nuwara Eliya,10,79,70.2,4,9,3.9
+E00177,Divisional Secretariat,Badulla,37,58,69.4,0,19,5.0
+E00178,Registrar General Department,Anuradhapura,15,56,76.5,0,13,4.3
+E00179,Department of Motor Traffic,Polonnaruwa,26,48,60.0,1,17,4.2
+E00180,Department of Pensions,Kandy,30,58,93.5,0,24,2.9
+E00181,Pradeshiya Sabha,Mannar,32,55,67.9,0,22,3.2
+E00182,Provincial Council Secretariat,Kegalle,14,88,74.2,1,11,4.6
+E00183,Department of Census and Statistics,Galle,27,69,80.7,1,15,4.1
+E00184,Pradeshiya Sabha,Matara,26,74,74.1,0,2,4.9
+E00185,Pradeshiya Sabha,Hambantota,27,44,61.4,0,7,3.5
+E00186,Department of Education,Mullaitivu,26,46,83.4,0,7,3.2
+E00187,Registrar General Department,Trincomalee,22,59,68.3,0,11,2.9
+E00188,Department of Census and Statistics,Puttalam,12,75,82.9,1,13,4.1
+E00189,Department of Education,Colombo,17,59,75.0,1,16,2.8
+E00190,Registrar General Department,Mullaitivu,23,60,72.1,0,25,1.9
+E00191,Divisional Secretariat,Hambantota,22,58,73.2,0,9,3.2
+E00192,Provincial Council Secretariat,Monaragala,39,72,69.3,0,4,4.2
+E00193,Department of Pensions,Ratnapura,27,44,93.1,2,10,4.0
+E00194,Department of Motor Traffic,Colombo,33,49,83.2,0,2,3.7
+E00195,Pradeshiya Sabha,Ratnapura,28,103,71.3,0,9,3.9
+E00196,Department of Motor Traffic,Batticaloa,19,50,66.8,1,12,3.8
+E00197,Department of Health Services,Gampaha,29,48,74.8,0,5,5.0
+E00198,Inland Revenue Department,Kegalle,17,75,68.7,1,4,4.5
+E00199,Department of Motor Traffic,Ratnapura,33,57,79.3,0,14,4.2
+E00200,Department of Pensions,Kegalle,15,30,77.2,0,2,4.6
+E00201,Department of Education,Kegalle,24,95,60.0,0,20,3.3
+E00202,Department of Education,Nuwara Eliya,36,87,68.7,2,19,4.1
+E00203,Department of Health Services,Trincomalee,27,54,60.0,1,24,3.7
+E00204,Department of Immigration,Nuwara Eliya,7,64,68.4,0,24,4.3
+E00205,Provincial Council Secretariat,Trincomalee,14,83,70.3,1,22,4.0
+E00206,Department of Census and Statistics,Ratnapura,25,34,85.0,0,10,3.4
+E00207,Department of Immigration,Batticaloa,30,32,71.6,0,7,4.4
+E00208,Pradeshiya Sabha,Hambantota,22,101,78.8,0,9,4.1
+E00209,Divisional Secretariat,Monaragala,22,67,71.7,0,16,3.3
+E00210,Divisional Secretariat,Ratnapura,30,61,82.3,0,20,3.7
+E00211,Department of Immigration,Mannar,20,60,81.4,1,4,4.4
+E00212,Municipal Council,Anuradhapura,8,118,66.3,0,16,4.1
+E00213,Pradeshiya Sabha,Galle,33,39,81.1,1,14,2.9
+E00214,Department of Health Services,Polonnaruwa,20,98,73.1,1,11,3.9
+E00215,Department of Pensions,Batticaloa,26,67,99.0,1,24,3.7
+E00216,Department of Census and Statistics,Trincomalee,33,83,81.4,0,15,2.8
+E00217,Provincial Council Secretariat,Monaragala,18,65,85.1,1,22,3.5
+E00218,Pradeshiya Sabha,Matara,29,67,60.0,1,22,3.0
+E00219,Department of Education,Kalutara,30,72,87.9,0,2,3.5
+E00220,Pradeshiya Sabha,Kilinochhi,23,60,64.0,0,7,2.6
+E00221,Divisional Secretariat,Ratnapura,17,91,60.0,0,23,3.5
+E00222,Department of Immigration,Mannar,38,80,73.1,0,21,5.0
+E00223,Pradeshiya Sabha,Puttalam,25,82,70.5,0,2,3.7
+E00224,Department of Health Services,Monaragala,13,27,85.2,1,16,5.0
+E00225,Department of Education,Kandy,29,77,82.6,0,18,4.0
+E00226,Department of Census and Statistics,Galle,23,71,74.7,0,23,3.0
+E00227,Department of Health Services,Colombo,17,37,76.8,0,25,4.9
+E00228,Municipal Council,Kandy,37,75,69.0,0,16,2.5
+E00229,Department of Pensions,Matara,29,40,76.1,1,23,2.7
+E00230,Department of Motor Traffic,Hambantota,12,68,69.8,1,2,3.9
+E00231,Department of Immigration,Mannar,26,51,81.2,2,13,4.4
+E00232,Department of Motor Traffic,Gampaha,28,34,81.5,1,10,3.3
+E00233,Registrar General Department,Galle,30,45,78.0,0,4,3.1
+E00234,Department of Health Services,Badulla,19,65,66.6,0,13,5.0
+E00235,Department of Education,Batticaloa,29,45,71.5,0,12,4.1
+E00236,Department of Immigration,Ampara,25,57,89.6,0,25,5.0
+E00237,Department of Motor Traffic,Batticaloa,36,26,73.1,0,4,3.5
+E00238,Department of Immigration,Batticaloa,18,92,96.8,2,19,3.6
+E00239,Pradeshiya Sabha,Ratnapura,27,49,60.0,0,23,4.2
+E00240,Department of Education,Kandy,20,39,68.5,0,15,2.8
+E00241,Department of Health Services,Galle,18,60,68.8,0,24,4.3
+E00242,Department of Census and Statistics,Colombo,27,76,60.0,0,14,4.0
+E00243,Department of Pensions,Nuwara Eliya,30,98,72.4,0,23,5.0
+E00244,Department of Education,Nuwara Eliya,29,61,80.4,0,19,3.0
+E00245,Pradeshiya Sabha,Anuradhapura,17,61,90.8,0,1,3.5
+E00246,Pradeshiya Sabha,Jaffna,33,72,64.1,2,7,3.5
+E00247,Provincial Council Secretariat,Kurunegala,25,84,67.5,1,21,3.9
+E00248,Registrar General Department,Ampara,29,71,60.0,0,24,2.8
+E00249,Department of Health Services,Batticaloa,10,70,64.0,0,13,2.0
+E00250,Department of Immigration,Nuwara Eliya,31,60,82.5,1,15,4.0
+E00251,Department of Motor Traffic,Matale,21,83,75.7,0,24,4.0
+E00252,Department of Census and Statistics,Jaffna,23,44,80.4,0,8,3.0
+E00253,Registrar General Department,Vavuniya,25,63,67.7,2,21,3.7
+E00254,Inland Revenue Department,Puttalam,36,71,80.1,0,3,3.0
+E00255,Department of Census and Statistics,Trincomalee,22,40,80.1,0,10,3.8
+E00256,Department of Health Services,Hambantota,25,20,65.6,1,16,3.6
+E00257,Department of Immigration,Kilinochhi,37,84,77.9,0,14,5.0
+E00258,Department of Motor Traffic,Jaffna,20,51,66.3,0,13,2.9
+E00259,Department of Education,Trincomalee,21,63,76.6,1,6,3.8
+E00260,Municipal Council,Gampaha,32,30,60.0,0,22,4.5
+E00261,Inland Revenue Department,Mullaitivu,23,79,74.9,0,20,3.1
+E00262,Department of Motor Traffic,Vavuniya,29,75,64.2,0,23,1.4
+E00263,Registrar General Department,Kilinochhi,31,44,71.1,0,23,2.6
+E00264,Pradeshiya Sabha,Mannar,24,71,76.2,0,2,3.0
+E00265,Municipal Council,Nuwara Eliya,15,59,86.7,0,13,3.1
+E00266,Registrar General Department,Matara,14,27,84.7,3,9,3.3
+E00267,Department of Motor Traffic,Monaragala,20,96,76.8,0,20,3.1
+E00268,Department of Education,Matara,24,78,89.1,1,3,4.7
+E00269,Department of Immigration,Matale,19,63,68.1,1,25,4.1
+E00270,Municipal Council,Gampaha,23,61,77.4,0,23,3.4
+E00271,Department of Health Services,Vavuniya,14,40,87.0,1,15,3.2
+E00272,Department of Health Services,Vavuniya,34,74,85.0,1,11,3.1
+E00273,Department of Pensions,Polonnaruwa,22,54,88.3,1,1,4.2
+E00274,Department of Census and Statistics,Matara,19,78,75.6,0,24,4.0
+E00275,Municipal Council,Nuwara Eliya,30,71,66.5,0,9,4.0
+E00276,Department of Immigration,Polonnaruwa,16,20,100.0,1,21,3.1
+E00277,Registrar General Department,Monaragala,23,54,73.1,0,14,4.2
+E00278,Divisional Secretariat,Hambantota,27,65,83.4,0,8,3.1
+E00279,Department of Census and Statistics,Matara,28,74,81.6,0,23,4.7
+E00280,Department of Immigration,Trincomalee,27,60,79.1,1,24,3.9
+E00281,Department of Health Services,Kalutara,25,30,79.9,0,15,4.3
+E00282,Provincial Council Secretariat,Badulla,26,112,80.7,1,1,2.3
+E00283,Department of Census and Statistics,Kurunegala,35,73,73.6,0,3,2.8
+E00284,Inland Revenue Department,Trincomalee,31,41,92.9,0,2,3.7
+E00285,Department of Census and Statistics,Batticaloa,38,67,63.0,0,8,4.1
+E00286,Department of Immigration,Kandy,27,89,65.5,0,8,3.1
+E00287,Department of Health Services,Kegalle,30,52,92.3,1,15,3.4
+E00288,Provincial Council Secretariat,Kegalle,13,24,60.0,1,21,4.8
+E00289,Provincial Council Secretariat,Vavuniya,20,111,69.4,0,10,3.9
+E00290,Department of Census and Statistics,Kilinochhi,39,97,91.3,1,12,4.5
+E00291,Department of Immigration,Mullaitivu,24,86,91.2,1,4,3.5
+E00292,Department of Census and Statistics,Kandy,5,76,70.7,0,1,3.0
+E00293,Department of Education,Colombo,24,57,90.1,2,24,4.3
+E00294,Department of Census and Statistics,Badulla,39,38,71.5,0,12,4.0
+E00295,Department of Education,Colombo,22,81,93.8,0,12,5.0
+E00296,Department of Immigration,Anuradhapura,13,36,74.7,0,12,4.6
+E00297,Department of Motor Traffic,Kurunegala,27,57,65.3,2,13,2.2
+E00298,Provincial Council Secretariat,Ampara,23,87,63.9,0,9,3.7
+E00299,Department of Pensions,Kalutara,24,95,91.6,1,5,3.4
+E00300,Inland Revenue Department,Kilinochhi,17,66,87.7,1,22,5.0
+E00301,Divisional Secretariat,Puttalam,24,55,66.2,1,23,3.1
+E00302,Provincial Council Secretariat,Puttalam,32,43,89.9,0,14,3.5
+E00303,Municipal Council,Nuwara Eliya,20,59,76.0,0,11,2.8
+E00304,Provincial Council Secretariat,Vavuniya,30,54,75.7,1,20,4.2
+E00305,Department of Immigration,Vavuniya,12,49,87.9,0,8,3.0
+E00306,Department of Census and Statistics,Mullaitivu,14,108,75.8,0,1,4.0
+E00307,Department of Motor Traffic,Vavuniya,19,43,72.0,0,21,4.4
+E00308,Department of Immigration,Kilinochhi,22,63,83.8,0,22,5.0
+E00309,Department of Census and Statistics,Kalutara,16,15,79.4,0,12,4.5
+E00310,Registrar General Department,Ampara,39,39,62.9,0,25,3.6
+E00311,Divisional Secretariat,Kegalle,23,87,68.5,0,15,3.1
+E00312,Pradeshiya Sabha,Mannar,34,44,60.5,3,3,3.8
+E00313,Divisional Secretariat,Galle,27,59,74.4,1,16,3.2
+E00314,Provincial Council Secretariat,Hambantota,17,59,85.4,0,19,4.2
+E00315,Department of Census and Statistics,Galle,25,31,84.2,0,3,3.2
+E00316,Department of Immigration,Batticaloa,34,70,87.7,0,7,3.8
+E00317,Department of Pensions,Kegalle,28,43,68.6,2,9,4.6
+E00318,Department of Census and Statistics,Trincomalee,20,49,78.0,0,21,4.4
+E00319,Department of Motor Traffic,Badulla,41,38,70.2,1,3,4.6
+E00320,Divisional Secretariat,Ampara,16,68,73.1,0,14,4.5
+E00321,Pradeshiya Sabha,Nuwara Eliya,25,54,92.9,1,4,3.9
+E00322,Inland Revenue Department,Hambantota,18,71,82.7,0,14,4.2
+E00323,Registrar General Department,Vavuniya,16,82,83.2,0,9,3.4
+E00324,Municipal Council,Vavuniya,24,15,70.0,0,3,4.5
+E00325,Department of Census and Statistics,Matale,31,70,72.6,0,23,3.5
+E00326,Department of Health Services,Kegalle,19,19,82.6,1,11,4.8
+E00327,Inland Revenue Department,Matale,24,84,80.4,0,5,4.1
+E00328,Department of Immigration,Badulla,15,83,75.4,0,9,4.2
+E00329,Department of Education,Gampaha,21,70,69.9,1,24,4.4
+E00330,Municipal Council,Trincomalee,9,62,85.3,3,4,2.7
+E00331,Department of Motor Traffic,Kandy,15,76,72.7,1,9,4.0
+E00332,Provincial Council Secretariat,Monaragala,11,15,76.4,0,4,4.6
+E00333,Department of Immigration,Puttalam,20,58,83.3,0,24,4.2
+E00334,Department of Education,Kalutara,21,75,77.0,1,20,4.0
+E00335,Provincial Council Secretariat,Kurunegala,32,49,81.6,0,9,3.4
+E00336,Department of Motor Traffic,Kegalle,27,96,67.8,0,18,3.2
+E00337,Divisional Secretariat,Badulla,9,54,60.0,0,9,4.4
+E00338,Inland Revenue Department,Batticaloa,32,94,79.0,1,25,3.9
+E00339,Department of Pensions,Kurunegala,25,83,65.7,0,22,3.9
+E00340,Municipal Council,Ratnapura,27,72,81.5,0,24,5.0
+E00341,Registrar General Department,Matale,19,23,75.1,1,13,4.6
+E00342,Provincial Council Secretariat,Kandy,37,86,91.4,0,16,4.3
+E00343,Divisional Secretariat,Matara,17,60,72.4,2,1,1.8
+E00344,Pradeshiya Sabha,Colombo,25,93,68.8,0,17,3.9
+E00345,Department of Motor Traffic,Kilinochhi,21,15,67.8,0,17,1.8
+E00346,Provincial Council Secretariat,Puttalam,12,75,75.8,0,20,2.6
+E00347,Department of Motor Traffic,Kilinochhi,33,48,74.8,0,21,5.0
+E00348,Provincial Council Secretariat,Gampaha,23,73,77.1,0,18,3.1
+E00349,Registrar General Department,Hambantota,25,16,69.8,2,1,4.4
+E00350,Inland Revenue Department,Galle,19,29,62.0,1,10,2.7
+E00351,Pradeshiya Sabha,Colombo,12,77,70.2,0,11,3.9
+E00352,Department of Motor Traffic,Kurunegala,26,47,62.9,0,24,3.8
+E00353,Registrar General Department,Monaragala,7,45,67.9,1,24,2.7
+E00354,Department of Motor Traffic,Kilinochhi,23,46,71.7,1,13,3.9
+E00355,Pradeshiya Sabha,Matara,24,60,82.1,1,11,3.9
+E00356,Municipal Council,Trincomalee,20,67,63.6,0,24,3.8
+E00357,Municipal Council,Mullaitivu,11,47,100.0,0,19,3.4
+E00358,Divisional Secretariat,Gampaha,26,39,87.7,1,21,3.1
+E00359,Department of Immigration,Kandy,19,95,68.1,0,25,4.7
+E00360,Inland Revenue Department,Kalutara,22,88,85.3,2,4,4.4
+E00361,Department of Health Services,Monaragala,31,25,88.0,1,14,2.4
+E00362,Divisional Secretariat,Jaffna,16,51,63.9,1,14,3.6
+E00363,Department of Motor Traffic,Matale,35,87,64.4,0,21,3.3
+E00364,Registrar General Department,Nuwara Eliya,33,36,60.0,0,10,4.5
+E00365,Department of Health Services,Batticaloa,24,65,66.9,0,14,4.1
+E00366,Department of Pensions,Matale,25,50,74.0,0,17,4.1
+E00367,Registrar General Department,Matale,24,52,67.4,0,23,4.8
+E00368,Municipal Council,Ratnapura,24,64,77.4,2,24,4.5
+E00369,Department of Census and Statistics,Puttalam,24,68,60.0,0,17,2.8
+E00370,Inland Revenue Department,Vavuniya,26,36,95.7,1,25,4.2
+E00371,Department of Immigration,Gampaha,16,42,67.4,1,15,3.3
+E00372,Department of Pensions,Anuradhapura,32,23,73.3,1,17,2.9
+E00373,Provincial Council Secretariat,Hambantota,27,77,94.6,0,19,4.7
+E00374,Pradeshiya Sabha,Ratnapura,21,57,100.0,0,11,2.5
+E00375,Divisional Secretariat,Kalutara,27,95,71.4,1,6,4.0
+E00376,Department of Health Services,Colombo,24,36,74.9,1,19,4.1
+E00377,Department of Immigration,Colombo,13,43,86.4,0,8,3.4
+E00378,Inland Revenue Department,Kalutara,7,122,90.6,1,24,4.2
+E00379,Department of Pensions,Ratnapura,29,72,80.6,0,14,3.8
+E00380,Department of Census and Statistics,Mullaitivu,34,55,73.6,0,22,4.6
+E00381,Department of Census and Statistics,Ampara,30,63,74.8,1,23,3.4
+E00382,Registrar General Department,Kegalle,18,68,60.3,1,14,2.4
+E00383,Department of Health Services,Mannar,32,70,82.3,1,16,4.2
+E00384,Provincial Council Secretariat,Polonnaruwa,31,75,86.9,1,4,4.3
+E00385,Inland Revenue Department,Colombo,24,42,78.4,0,10,3.4
+E00386,Divisional Secretariat,Anuradhapura,23,49,76.1,1,12,3.6
+E00387,Department of Motor Traffic,Jaffna,25,72,65.4,0,8,3.3
+E00388,Provincial Council Secretariat,Puttalam,30,78,60.0,0,22,3.1
+E00389,Department of Health Services,Jaffna,31,47,73.5,1,21,4.3
+E00390,Registrar General Department,Vavuniya,12,57,70.8,1,9,3.5
+E00391,Department of Census and Statistics,Gampaha,18,66,75.1,0,17,4.6
+E00392,Department of Health Services,Matale,39,84,77.1,0,24,3.4
+E00393,Pradeshiya Sabha,Puttalam,31,71,77.4,0,11,4.8
+E00394,Inland Revenue Department,Matale,28,49,79.7,0,25,2.6
+E00395,Department of Immigration,Matara,27,41,73.7,0,1,4.0
+E00396,Department of Education,Matale,22,63,83.3,0,9,3.1
+E00397,Pradeshiya Sabha,Kurunegala,22,44,82.3,0,16,3.4
+E00398,Department of Health Services,Hambantota,27,63,83.5,0,4,3.6
+E00399,Department of Immigration,Mullaitivu,24,99,95.7,1,4,2.9
+E00400,Inland Revenue Department,Badulla,29,43,81.9,2,19,4.1
+E00401,Department of Census and Statistics,Kegalle,20,53,81.2,0,12,4.7
+E00402,Department of Education,Hambantota,28,57,60.0,0,11,3.8
+E00403,Provincial Council Secretariat,Vavuniya,20,35,69.9,1,4,3.6
+E00404,Provincial Council Secretariat,Ratnapura,27,66,81.2,0,1,2.8
+E00405,Pradeshiya Sabha,Kilinochhi,22,67,84.7,0,17,5.0
+E00406,Inland Revenue Department,Puttalam,28,41,71.3,0,8,4.9
+E00407,Department of Pensions,Gampaha,37,44,76.9,0,17,3.6
+E00408,Inland Revenue Department,Mannar,20,56,80.4,0,9,3.2
+E00409,Municipal Council,Hambantota,12,37,72.8,0,5,1.6
+E00410,Municipal Council,Polonnaruwa,44,75,74.8,1,16,3.5
+E00411,Provincial Council Secretariat,Trincomalee,15,82,82.2,0,12,4.3
+E00412,Divisional Secretariat,Kurunegala,23,63,84.8,0,17,3.2
+E00413,Registrar General Department,Puttalam,15,30,71.6,1,6,3.5
+E00414,Department of Motor Traffic,Mullaitivu,26,64,67.8,0,20,4.7
+E00415,Department of Health Services,Mannar,21,56,67.6,0,13,3.1
+E00416,Divisional Secretariat,Galle,23,93,75.2,1,6,3.9
+E00417,Department of Census and Statistics,Badulla,14,47,71.2,1,20,3.5
+E00418,Department of Health Services,Matale,16,64,80.0,0,15,4.7
+E00419,Department of Health Services,Monaragala,15,76,81.4,0,6,3.6
+E00420,Department of Immigration,Matara,32,58,76.8,0,14,4.1
+E00421,Provincial Council Secretariat,Matara,16,56,75.4,0,3,4.2
+E00422,Department of Immigration,Ampara,41,60,78.1,1,11,3.7
+E00423,Inland Revenue Department,Hambantota,7,90,65.8,0,4,3.8
+E00424,Provincial Council Secretariat,Galle,28,67,75.5,0,20,4.0
+E00425,Pradeshiya Sabha,Anuradhapura,41,32,76.9,1,23,3.2
+E00426,Department of Census and Statistics,Kilinochhi,28,60,68.6,0,21,4.1
+E00427,Department of Education,Kurunegala,17,76,88.9,0,24,4.7
+E00428,Department of Motor Traffic,Nuwara Eliya,36,67,66.9,0,5,3.5
+E00429,Provincial Council Secretariat,Colombo,29,55,81.3,0,3,2.7
+E00430,Department of Education,Ampara,32,50,70.3,0,3,4.0
+E00431,Municipal Council,Colombo,24,50,67.0,0,14,4.0
+E00432,Department of Immigration,Puttalam,30,56,73.5,0,10,5.0
+E00433,Department of Census and Statistics,Colombo,26,63,76.0,0,5,4.2
+E00434,Pradeshiya Sabha,Vavuniya,19,75,60.0,1,22,4.5
+E00435,Divisional Secretariat,Jaffna,25,40,70.9,1,9,4.3
+E00436,Department of Education,Matara,40,28,91.2,0,25,3.8
+E00437,Department of Census and Statistics,Badulla,31,54,89.1,0,7,3.4
+E00438,Department of Pensions,Kandy,13,59,62.5,0,21,4.0
+E00439,Department of Pensions,Monaragala,22,68,75.1,0,8,4.3
+E00440,Divisional Secretariat,Kalutara,28,68,87.4,1,1,2.9
+E00441,Pradeshiya Sabha,Galle,10,66,70.0,0,6,3.7
+E00442,Inland Revenue Department,Ratnapura,30,15,72.7,0,23,3.2
+E00443,Registrar General Department,Trincomalee,30,37,76.7,0,14,3.9
+E00444,Municipal Council,Ratnapura,16,36,83.6,0,14,4.2
+E00445,Department of Education,Puttalam,31,54,69.0,0,21,4.9
+E00446,Department of Motor Traffic,Mullaitivu,20,64,88.0,0,14,3.8
+E00447,Municipal Council,Ampara,28,88,81.5,0,24,2.5
+E00448,Department of Pensions,Ampara,32,76,75.3,0,16,3.0
+E00449,Municipal Council,Polonnaruwa,29,56,80.3,1,5,4.5
+E00450,Department of Motor Traffic,Monaragala,26,69,76.7,0,4,3.8
+E00451,Registrar General Department,Badulla,20,70,60.0,3,2,2.5
+E00452,Department of Pensions,Colombo,30,61,60.0,0,18,3.7
+E00453,Inland Revenue Department,Trincomalee,30,76,77.1,1,9,3.9
+E00454,Inland Revenue Department,Ratnapura,12,52,88.9,0,15,4.5
+E00455,Provincial Council Secretariat,Nuwara Eliya,39,60,72.6,1,13,4.0
+E00456,Department of Motor Traffic,Kalutara,17,54,60.0,2,21,2.7
+E00457,Provincial Council Secretariat,Batticaloa,30,32,87.1,1,16,4.0
+E00458,Pradeshiya Sabha,Ampara,22,62,60.0,0,20,4.1
+E00459,Department of Census and Statistics,Polonnaruwa,34,29,87.2,0,8,3.1
+E00460,Inland Revenue Department,Ratnapura,20,25,68.8,0,10,5.0
+E00461,Department of Immigration,Matale,29,56,93.9,0,11,4.9
+E00462,Inland Revenue Department,Puttalam,22,33,75.9,0,8,4.2
+E00463,Divisional Secretariat,Matale,20,26,61.7,1,5,3.8
+E00464,Department of Pensions,Matale,37,47,68.6,0,12,5.0
+E00465,Department of Education,Ampara,13,46,74.2,0,15,2.6
+E00466,Department of Immigration,Batticaloa,32,34,80.9,0,15,4.3
+E00467,Department of Pensions,Mannar,20,54,91.7,1,15,4.8
+E00468,Municipal Council,Kilinochhi,31,37,83.2,0,2,5.0
+E00469,Department of Immigration,Kandy,30,29,77.9,0,22,4.2
+E00470,Provincial Council Secretariat,Trincomalee,33,83,72.7,0,12,3.7
+E00471,Department of Immigration,Kalutara,22,27,78.9,1,4,4.4
+E00472,Department of Pensions,Trincomalee,18,57,78.2,0,10,3.9
+E00473,Department of Health Services,Gampaha,21,27,92.5,1,8,4.9
+E00474,Pradeshiya Sabha,Vavuniya,20,65,77.9,1,7,3.6
+E00475,Provincial Council Secretariat,Matara,18,46,65.8,0,19,3.1
+E00476,Department of Health Services,Monaragala,38,53,91.1,0,25,4.5
+E00477,Provincial Council Secretariat,Ampara,28,69,75.8,0,18,4.3
+E00478,Provincial Council Secretariat,Jaffna,36,73,76.5,0,6,5.0
+E00479,Department of Motor Traffic,Kegalle,30,55,80.7,0,24,5.0
+E00480,Municipal Council,Jaffna,31,54,86.1,0,15,4.3
+E00481,Department of Census and Statistics,Monaragala,14,73,68.9,0,21,5.0
+E00482,Pradeshiya Sabha,Puttalam,29,63,70.2,0,25,2.3
+E00483,Provincial Council Secretariat,Matara,25,21,74.9,1,12,3.2
+E00484,Municipal Council,Trincomalee,21,88,62.4,0,20,4.4
+E00485,Department of Pensions,Batticaloa,29,39,76.4,1,25,3.9
+E00486,Department of Education,Gampaha,16,37,76.0,0,13,2.4
+E00487,Divisional Secretariat,Monaragala,14,33,79.8,0,24,4.2
+E00488,Inland Revenue Department,Badulla,15,32,87.1,1,19,4.0
+E00489,Department of Immigration,Trincomalee,33,17,66.0,1,11,4.0
+E00490,Inland Revenue Department,Matale,26,63,76.1,0,21,5.0
+E00491,Municipal Council,Gampaha,28,41,80.6,0,5,3.0
+E00492,Department of Census and Statistics,Jaffna,25,94,72.2,0,14,4.1
+E00493,Registrar General Department,Mullaitivu,23,53,94.3,0,23,3.8
+E00494,Municipal Council,Monaragala,23,48,67.6,1,21,3.2
+E00495,Department of Education,Puttalam,8,88,88.4,1,10,1.9
+E00496,Department of Health Services,Ratnapura,25,34,85.2,1,15,3.6
+E00497,Municipal Council,Batticaloa,27,41,71.6,0,17,3.1
+E00498,Municipal Council,Kalutara,17,73,83.6,0,17,3.6
+E00499,Divisional Secretariat,Trincomalee,5,65,74.5,0,14,3.1
+E00500,Inland Revenue Department,Monaragala,36,79,82.8,2,14,5.0
