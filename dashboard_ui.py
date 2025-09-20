@@ -500,8 +500,6 @@ class DashboardUI:
 
         # Footer
         st.markdown("---")
-        st.markdown("**Dashboard created for Government Service Analytics Assignment**")
-        st.markdown("*Data is simulated for demonstration purposes*")
 
 
 def main():
